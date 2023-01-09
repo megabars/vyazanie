@@ -1,0 +1,64 @@
+[
+  {
+    "info": {
+      "message": {
+        "channel_data": {
+          "message": {
+            "date": 1631424949,
+            "document": {
+              "thumb": {
+                "width": 240,
+                "height": 320,
+                "file_id": "AAMCAgADGQEAAh6TYT2RtOVxLIy5Xz5QMTgAAeYd9180AAKfEgACgozpSToccbxxHirhAQAHbQADIAQ",
+                "file_unique_id": "AQADnxIAAoKM6Uly",
+                "file_size": 19417
+              },
+              "file_name": "IMG_4389.JPG",
+              "file_unique_id": "AgADnxIAAoKM6Uk",
+              "file_id": "BQACAgIAAxkBAAIek2E9kbTlcSyMuV8-UDE4AAHmHfdfNAACnxIAAoKM6Uk6HHG8cR4q4SAE",
+              "file_size": 3598581,
+              "mime_type": "image/jpeg"
+            },
+            "from": {
+              "username": "AgentMegabars",
+              "first_name": "Ivan",
+              "last_name": "Mezentsev",
+              "is_bot": false,
+              "language_code": "ru",
+              "id": 28994673
+            },
+            "message_id": 7827,
+            "chat": {
+              "username": "AgentMegabars",
+              "first_name": "Ivan",
+              "last_name": "Mezentsev",
+              "type": "private",
+              "id": 28994673
+            }
+          },
+          "message_id": 7827,
+          "chat_id": 28994673
+        },
+        "id": "613d91b5b730af42334e0b40"
+      }
+    },
+    "service": "telegram",
+    "title": "incoming_message",
+    "bot": {
+      "url": "https://t.me/Uzory_bot",
+      "external_id": "1892148978",
+      "id": "61041058cdbb7d20da6ff7fa",
+      "name": "\u0420\u0410\u0417\u0411\u041e\u0420\u042b \u0423\u0417\u041e\u0420\u041e\u0412 \u0421 \u0410\u041b\u0415\u041d\u041e\u0419 \u041b\u0418\u041f\u041d\u0418\u0426\u041a\u041e\u0419"
+    },
+    "contact": {
+      "username": "AgentMegabars",
+      "name": "Ivan Mezentsev",
+      "tags": [],
+      "last_message": null,
+      "photo": null,
+      "variables": [],
+      "id": "610428fb7e7b444e5d664040"
+    },
+    "date": 1631424949
+  }
+]
